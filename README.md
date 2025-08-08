@@ -49,10 +49,5 @@ A snapshot of the dataset is displayed to understand the variables and sample va
 - Run all notebook cells sequentially to reproduce the analysis.
 - Modify or extend the notebook to include further analyses or predictive modeling if desired.
 
-## Contact
-For questions or contributions, please open an issue or submit a pull request.
-
----
-
 *Thank you for exploring the Jiomart sales data analysis!*
 
