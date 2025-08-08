@@ -1,6 +1,6 @@
 
 
-# Jiomart Analysis - Data Analysis Project in Python
+# Jiomart Analysis - EDA(Exploratory Data Analysis)
 
 ## Project Overview
 This project performs exploratory data analysis (EDA) on a retail sales dataset from Jiomart, a leading online grocery platform in India. The primary objective is to analyze product-level and outlet-level data to uncover sales patterns, customer preferences, and store performance, which can inform business strategy and operational improvements.
